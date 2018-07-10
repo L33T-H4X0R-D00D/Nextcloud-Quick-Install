@@ -14,7 +14,7 @@ This is a very quick way to install Nextcloud and setup Lets-Encrypt.
 
 
 # Brief
-Nextcloud has been difficult to install in the past, with many people opting to download pre-configured VMs from sources like TeachAndMe.  These VMs are frequently setup with incorrect permissions for application based upgrades to newer versions, which leave users stuck using an old version.    
+Nextcloud has been difficult to install in the past, with many people opting to download pre-configured VMs from sources like TeachAndMe.  These VMs are frequently setup with incorrect permissions for application based upgrades to newer versions, leaving users stuck using old version or vulnerable versions.    
 
 
 # Installation
