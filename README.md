@@ -43,10 +43,10 @@ sudo nano /var/snap/nextcloud/6916/nextcloud/config/config.php
 
      'trusted_domains' =>
       array (
-                 0 => '172.16.0.186',
-                 1 => '67.163.127.119',
-                 2 => 'steel-cloud.com',
-                 3 => 'nc.steel-cloud.com',
+                 0 => 'InternalIP',
+                 1 => 'ExternalIP',
+                 2 => 'Domain1',
+                 3 => 'Domain2',
                 ),
 
 
