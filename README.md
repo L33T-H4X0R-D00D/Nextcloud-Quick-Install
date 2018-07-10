@@ -38,9 +38,9 @@ This is a very quick way to install Nextcloud and setup Lets-Encrypt.  I offer b
 
 6. The installer will collect some information and install certificate. Once complete, add trusted ingress routes for Nextcloud to respond to in this format:
 5. Add trusted ingress routes for Nextcloud to respond to in this format:
-    array (    
+`<array (    
         0 => 'LocalIP',    
         1 => 'WanIP',    
         2 => 'ExternalDomain1',    
-        3 => 'ExternalDomain2',    
+        3 => 'ExternalDomain2',>`    
 Indented 4 spaces, like `<pre>` (Preformatted Text).
