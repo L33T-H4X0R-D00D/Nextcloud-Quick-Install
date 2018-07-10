@@ -1,5 +1,5 @@
 # Nextcloud Quick Install
-*Version 20180710.1
+*Version 20180710.1*
 This is a very quick way to install Nextcloud and setup Lets-Encrypt.  I offer both a manual and script based option. 
 
 
@@ -38,8 +38,8 @@ This is a very quick way to install Nextcloud and setup Lets-Encrypt.  I offer b
 
 6. The installer will collect some information and install certificate. Once complete, add trusted ingress routes for Nextcloud to respond to in this format:
 5. Add trusted ingress routes for Nextcloud to respond to in this format:
->array (
->    0 => 'LocalIP',
->    1 => 'WanIP',
->    2 => 'ExternalDomain1',
->    3 => 'ExternalDomain2',
+array (    
+    0 => 'LocalIP',    
+    1 => 'WanIP',    
+    2 => 'ExternalDomain1',    
+    3 => 'ExternalDomain2',    
