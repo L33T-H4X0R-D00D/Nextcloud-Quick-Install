@@ -1,10 +1,10 @@
 # Nextcloud Quick Install
-*Version 20180710.2*
+*Version 20180710.3*
 This is a very quick way to install Nextcloud and setup Lets-Encrypt.  
 
 
 # Files included
-
+* None
 
 # Requirements
 * Ubuntu 16.04 or newer server, with SSH enabled, connected to the internet
@@ -14,10 +14,10 @@ This is a very quick way to install Nextcloud and setup Lets-Encrypt.
 
 
 # Brief
+Nextcloud has been difficult to install in the past, with many people opting to download pre-configured VMs from sources like TeachAndMe.  These VMs are frequently setup with incorrect permissions for application based upgrades to newer versions, which leave users stuck using an old version.    
 
 
-
-#Installation
+# Installation
 
 1. Connect to server via SSH.
 2. Update the system.
